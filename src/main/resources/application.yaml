@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: smat-database
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/smat
+    username: admin
+    password: admin
+
+  flyway:
+    dbms: postgresql
+    schemas: smat
+    locations: classpath:db/migration

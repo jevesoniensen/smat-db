@@ -1,0 +1,11 @@
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (1, 'Auxiliar de produção', 1);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (2, 'Trabalhador rural', 2);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (3, 'Carteiros, mensageiros', 3);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (4, 'Carpinteiros', 4);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (5, 'Cozinheiros, auxiliares de cozinha', 5);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (6, 'Bancários e economiários', 6);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (7, 'Soldados, funileiros', 7);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (8, 'Pessoal de enfermagem', 8);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (9, 'Pedreiro', 9);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (10, 'Motoristas', 10);
+INSERT INTO smat.Ocupacoes (ocupacao, nome, cbo) VALUES (11, 'Faxineiro', 11);

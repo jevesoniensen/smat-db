@@ -1,0 +1,14 @@
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (1, 'A - Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura', 01, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (2, 'Agricultura, Pecuária e Serviços Relacionados', 01, 1);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (3, 'C - Indústrias de Transformação', 10, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (4, 'Fabricação de Produtos Alimentares (Ex: Frigoríficos)', 10, 3);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (5, 'F - Construção', 41, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (6, 'Construção de Edifícios', 41, 5);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (7, 'G - Comércio; Reparação de Veículos Automotores e Motocicletas', 47, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (8, 'Comércio Varejista', 47, 7);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (9, 'H - Transporte, Armazenagem e Correio', 49, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (10, 'Transporte Terrestre (Ex: Rodoviário de Cargas)', 49, 9);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (11, 'O - Administração Pública, Defesa e Seguridade Social', 84, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (12, 'Administração Pública, Defesa e Seguridade Social', 84, 11);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (13, 'Q - Saúde Humana e Serviços Sociais', 86, null);
+INSERT INTO smat.ramosatividade(ramoatividade, nome, cnae, ramosuperior) VALUES (14, 'Atividades de Atenção à Saúde Humana (Hospitais)', 86, 13);

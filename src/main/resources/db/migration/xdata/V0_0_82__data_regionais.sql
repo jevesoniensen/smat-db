@@ -1,0 +1,11 @@
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (1, NULL, 1, '1ª Curitiba', 1, 'Rua', 'Bairro', '80.000-00', 'Tal');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (2, NULL, 1, '2ª Metropolitana', 1, '1', 'RUA', 'CEP', 'COMP');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (3, NULL, 2, '1ª São Paulo - Capital', 1, 'RUA', 'BAIRRO', '12123-512', 'COMP');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (5, NULL, 3, '1ª Rio de Janeiro - Capital', 1, 'RUA', 'BAIRRO', 'CEP', 'COMP');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (6, NULL, 3, '2ª Petrópolis', 1, 'RUA', 'BAIRRO', 'CEP', 'COMP');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (7, NULL, 1, '3ª Ponta Grossa', 1, 'rua', 'bairro', 'cep', 'comp');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (8, NULL, 1, '4ª Irati', 1, 'rua', 'bairro', 'cep', 'comp');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (9, NULL, 1, '5ª Guarapuava  rua bairro', 1, 'Rua', 'bairro', 'cep', 'comp');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (10, NULL, 1, '6ª União da Vitória  rua bairro', 1, 'Rua', 'bairro', 'cep', 'comp');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (11, NULL, 1, '7ª Pato Branco rua bairro', 1, 'Rua', 'bairro', '88888-888', 'comp');
+INSERT INTO smat.Regionais (regional, municipio, estado, nome, numero, rua, bairro, cep, complemento) VALUES (12, NULL, 1, '8ª Francisco Beltrão  rua bairro', 1, 'Rua', 'bairro', 'cep', 'comp');

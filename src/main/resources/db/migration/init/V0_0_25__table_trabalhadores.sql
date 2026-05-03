@@ -1,0 +1,28 @@
+CREATE TABLE smat.Trabalhadores (
+       trabalhador          int NOT NULL,
+       municipio            int NULL,
+       UFRG                 int NULL,
+       UFCTPS               int NULL,
+       estadoCivil          int NULL,
+       nome                 varchar(60) NOT NULL,
+       cpf                  varchar(20) NULL,
+       rg                   varchar(20) NULL,
+       carteiraTrabalho     int NULL,
+       serie                int NULL,
+       dataEmissaoCTPS      timestamp NULL,
+       dataNascimento       timestamp NOT NULL,
+       sexo                 char(1) NOT NULL,
+       numero               int NULL,
+       rua                  varchar(80) NULL,
+       bairro               varchar(60) NULL,
+       cep                  varchar(9) NULL,
+       complemento          varchar(10) NULL,
+       nomeResponsavel      varchar(60) NULL,
+       dataEmissaoRG        timestamp NULL,
+       orgaoExpedidorRG     varchar(30) NULL,
+       PISPASEPNIT          varchar(20) NULL,
+       telefone             varchar(9) NULL,
+       ddd                  varchar(2) NULL
+);
+ALTER TABLE smat.Trabalhadores
+       ADD PRIMARY KEY (trabalhador);

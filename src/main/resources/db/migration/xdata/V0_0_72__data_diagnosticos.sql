@@ -1,0 +1,17 @@
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (1, 'Luxação', 1);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (2, 'Fratura aberta (exposta)', 2);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (3, 'Entorses e distensões', 3);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (4, 'Queimaduras de terceiro g', 4);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (5, 'Asfixia traumática ou est', 5);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (6, 'Neoplasma maligno da pleu', 6);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (7, 'Cervicalgia', 7);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (8, 'Cicatriz queloideana', 8);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (9, 'Anemia aplástica', 9);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (10, 'Ceratoderma adquirido', 10);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (11, 'Dor nas costas não especi', 11);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (12, 'Dor nos membros', 12);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (13, 'Efeito tóxico do álcool m', 13);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (14, 'Efeito tóxico dos derivad', 14);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (15, 'Neoplasma maligno da pleu', 15);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (16, 'Traumatismo da medula esp', 16);
+INSERT INTO smat.Diagnosticos (diagnostico, nome, cid10) VALUES (17, 'Tendinite', 17);

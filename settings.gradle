@@ -1,0 +1,4 @@
+// Make Gradle toolchains aware of a local JDK installation (so Java toolchain resolution can find it)
+System.setProperty("org.gradle.java.installations.paths", "/home/jeveson/sdk/java/jdk-25.0.2+10")
+
+rootProject.name = 'database'

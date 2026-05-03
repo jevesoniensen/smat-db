@@ -1,0 +1,14 @@
+insert into locaisatendimento (localatendimento, nome, municipio) values(1,'Hospital 1',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(2,'Hospital e Maternidade Rio Branco ltda.',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(3,'Hospital Envangélico de Curitiba',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(4,'Hospital do Trabalhador',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(5,'Hospital Cajuru',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(6,'Casa de Saúde Paciornik Ltda',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(7,'Hospital 7',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(8,'Hospital Nossa Senhora das Graças',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(9,'Hospital Santa Casa',5);
+insert into locaisatendimento (localatendimento, nome, municipio) values(10,'Hospital 10',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(12,'Hospital São Mateus',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(13,'Hospital Santa Tereza',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(14,'Hospital Vita',1);
+insert into locaisatendimento (localatendimento, nome, municipio) values(15,'Hospital São Lucas',2);

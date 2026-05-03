@@ -1,0 +1,35 @@
+services:
+  smat-db:
+    image: "postgres:15-alpine"
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: smat
+    networks:
+      - shared-network
+    volumes:
+      - db-data:/var/lib/postgresql/data/
+
+  pg-admin:
+    image: dpage/pgadmin4
+    container_name: pg-admin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: postgres@admin.com
+      PGADMIN_DEFAULT_PASSWORD: postgres
+    ports:
+      - "15432:80"
+    networks:
+      - shared-network
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+
+
+networks:
+  shared-network:
+#    driver: bridge
+
+volumes:
+  db-data:
+  pgadmin-data:

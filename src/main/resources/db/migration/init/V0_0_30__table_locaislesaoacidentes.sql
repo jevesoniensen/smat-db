@@ -1,6 +1,6 @@
-CREATE TABLE smat.LocaisLesaoAcidentes (
-       acidente             int NOT NULL,
-       localLesao           int NOT NULL
+CREATE TABLE smat.LocaisLesaoAcidentes
+(
+    acidente   BIGINT NOT NULL,
+    localLesao int    NOT NULL,
+    PRIMARY KEY (acidente, localLesao)
 );
-ALTER TABLE smat.LocaisLesaoAcidentes
-       ADD PRIMARY KEY (acidente, localLesao);
